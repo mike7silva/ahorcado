@@ -1,0 +1,38 @@
+div.intro {
+  text-align: center;
+  display: inline;
+  width: 100%;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 0;
+  height: 100px;
+}
+#portada {
+  width: 100%;
+  height: 100%;
+}
+div.story {
+  background-image: url("../img/wpp.jpg");
+  background-size: cover;
+  text-align: center;
+  width: 100%;
+  height: 200px;
+  position: absolute;
+  right: 0;
+  left: 0;
+  top: 100px;
+}
+p.content {
+  margin: 0 auto;
+  width: 28%;
+  color: lightgray;
+  font-family: arial, sans-serif;
+  font-size: 9px;
+}
+div.gamezone {
+  background-image: url();
+}
+div.keyboard {
+  background-image: url();
+}
